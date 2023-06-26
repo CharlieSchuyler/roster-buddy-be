@@ -1,0 +1,28 @@
+((\d{2}\/\d{2})\s(\w{3}))\s+((HRA SPAN)\s+(\d{4})\s+(\d{4})\s+(\d{1,2}:\d{2})\s+([A-Za-z1-9]{2,5})\s+(\d{1,2}:\d{2})|(NON AV)\s+([A-z1-9]{2,5}))
+
+ 27/02 Mon   HRA SPAN   0315   1515   3:00   ASN 3:00 
+ 28/02 Tue   HRA SPAN   0315   1515   3:00   ASN 3:00 
+ 01/03 Wed   HRA SPAN   0315   1515   3:00   ASN 3:00 
+ 02/03 Thu   NON AV   PLN
+ 03/03 Fri   NON AV   PLN
+ 04/03 Sat   NON AV   PLN
+ 05/03 Sun   NON AV   PLN
+ 06/03 Mon   NON AV   PLN
+ 07/03 Tue   0234   767M/850   0850   1835   9:45   DRW   FWAO 9:45
+ 09/03 Thu   839   0145   0655   5:10   FWAO 5:10
+ 10/03 Fri   0346   484/499   1800   2350   5:50   FWAO 5:50
+ 11/03 Sat   NON AV   PLN
+ 12/03 Sun   NON AV   PLN
+ 13/03 Mon   HRA SPAN   0430   1630   3:00   ASN 3:00
+ 14/03 Tue   HRA SPAN   0430   1630   3:00   ASN 3:00
+ 15/03 Wed   HRA SPAN   0430   1630   3:00   ASN 3:00
+ 16/03 Thu   HRA SPAN   0430   1630   3:00   ASN 3:00
+ 17/03 Fri   HRA SPAN   0430   1630   3:00   ASN 3:00
+ 18/03 Sat   NON AV   PLN
+ 19/03 Sun   NON AV   PLN
+ 20/03 Mon   NON AV   PLN
+ 21/03 Tue   NON AV   PLN
+ 22/03 Wed   HRA SPAN   0315   1515   3:00   ASN 3:00
+ 23/03 Thu   HRA SPAN   0315   1515   3:00   ASN 3:00
+ 24/03 Fri   HRA SPAN   0315   1515   3:00   ASN 3:00
+ 25/03 Sat   NON AV   PLN 26/03 Sun   NON AV   

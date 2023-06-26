@@ -1,0 +1,13 @@
+Duty - LSC, NON AV, HRA SPAN, (0000 or 0000A0 code), (Nothing)
+Service - Only applicable if there is a code or nothing, can consist of multiple flight numbers seperated by a slash
+S-On - 0000 (UTC Time) Only applicable if there is a service
+S-off - 0000 (UTC Time) Only applicable if there is a service
+Duty - 0:00 (duty time) Only applicable if there is a service
+Credit - 0:00 (duty time) Only applicable if there is a service
+Port - XXX (Arrival IATA code)
+Code - LS, PLN, FWAO (always if there is service), NFTRO, NWDC, ASC
+	
+
+0 = any possible number 1-9 that the airline will give to you
+a = any possible letter that the airline will give to you
+
